@@ -1,0 +1,15 @@
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/bin/Debug/net6.0/ForLoopSum
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/bin/Debug/net6.0/ForLoopSum.deps.json
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/bin/Debug/net6.0/ForLoopSum.runtimeconfig.json
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/bin/Debug/net6.0/ForLoopSum.dll
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/bin/Debug/net6.0/ForLoopSum.pdb
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/obj/Debug/net6.0/ForLoopSum.csproj.AssemblyReference.cache
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/obj/Debug/net6.0/ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/obj/Debug/net6.0/ForLoopSum.AssemblyInfoInputs.cache
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/obj/Debug/net6.0/ForLoopSum.AssemblyInfo.cs
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/obj/Debug/net6.0/ForLoopSum.csproj.CoreCompileInputs.cache
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/obj/Debug/net6.0/ForLoopSum.dll
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/obj/Debug/net6.0/refint/ForLoopSum.dll
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/obj/Debug/net6.0/ForLoopSum.pdb
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/obj/Debug/net6.0/ForLoopSum.genruntimeconfig.cache
+/Users/carlyn/Projects/Week4Loops/ForLoopSum/obj/Debug/net6.0/ref/ForLoopSum.dll
